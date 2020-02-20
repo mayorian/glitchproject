@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 20.02.2020 12:09:51
+# File Created: 20.02.2020 12:14:05
 
 mtllib LowPolyAvatar2020.mtl
 
@@ -495,7 +495,7 @@ vt 0.0829 0.4965 0.0000
 # 299 texture coords
 
 g Sphere001
-usemtl wire_138008110
+usemtl 06___Default
 s 1
 f 1/1/1 2/2/2 3/3/3 
 f 1/1/1 3/3/3 4/4/4 
