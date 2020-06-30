@@ -2,19 +2,16 @@
 ## Alias OBJ Material File
 # Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
 
-newmtl FrontColor
+newmtl _8
 Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
+Kd 0.294118 0.313725 0.286275
 Ks 0.330000 0.330000 0.330000
+d 0.930000
+map_Kd countryroad/_8.png
 
-newmtl M_399539_29007ae8af_b
+newmtl Translucent_Glass_Gray
 Ka 0.000000 0.000000 0.000000
-Kd 0.505882 0.541176 0.490196
+Kd 0.501961 0.501961 0.501961
 Ks 0.330000 0.330000 0.330000
-map_Kd countryroad/M_399539_29007ae8af_b.jpg
-
-newmtl BackColor
-Ka 0.000000 0.000000 0.000000
-Kd 0.643137 0.698039 0.733333
-Ks 0.330000 0.330000 0.330000
+d 0.000000
 
