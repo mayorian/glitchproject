@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 30.06.2020 17:57:23
+# File Created: 01.07.2020 00:11:39
 
 mtllib countryside.mtl
 
@@ -1488,7 +1488,7 @@ vt 1.0000 1.0000 0.0000
 # 10 texture coords
 
 g Plane001
-usemtl Material__3
+usemtl Material__5
 s 1
 f 703/13/8 704/14/8 705/15/8 706/16/8 
 f 704/14/8 707/17/8 708/18/8 705/15/8 
@@ -1532,7 +1532,7 @@ vt 1.0000 1.0000 0.0000
 # 10 texture coords
 
 g Plane002
-usemtl Material__3
+usemtl Material__5
 s 1
 f 713/23/9 714/24/10 715/25/10 716/26/9 
 f 714/24/10 717/27/11 718/28/11 715/25/10 
@@ -1576,7 +1576,7 @@ vt 1.0000 1.0000 0.0000
 # 10 texture coords
 
 g Plane003
-usemtl Material__3
+usemtl Material__5
 s 1
 f 723/33/14 724/34/15 725/35/15 726/36/14 
 f 724/34/15 727/37/16 728/38/16 725/35/15 

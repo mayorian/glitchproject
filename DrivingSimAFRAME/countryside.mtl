@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 30.06.2020 17:57:23
+# File Created: 01.07.2020 00:11:39
 
 newmtl Material__2
 	Ns 10.0000
@@ -25,7 +25,7 @@ newmtl wire_086086086
 	Kd 0.3373 0.3373 0.3373
 	Ks 0.3500 0.3500 0.3500
 
-newmtl Material__3
+newmtl Material__5
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -36,5 +36,5 @@ newmtl Material__3
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka pngforest.png
-	map_Kd pngforest.png
+	map_Ka _8.png
+	map_Kd _8.png
