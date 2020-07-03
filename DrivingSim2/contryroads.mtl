@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 04.07.2020 00:24:26
+# File Created: 04.07.2020 00:37:32
 
 newmtl 01___Default
 	Ns 10.0000
@@ -40,6 +40,6 @@ newmtl 05___Default
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka treeamb.jpg
-	map_Kd treeamb.jpg
-	map_d treeAlpha.jpg
+	map_Ka forestAmb.jpg
+	map_Kd forestAmb.jpg
+	map_d forestAlpha.jpg
