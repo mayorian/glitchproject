@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 06.07.2020 00:39:30
+# File Created: 06.07.2020 01:30:03
 
 newmtl 01___Default
 	Ns 10.0000
@@ -116,16 +116,6 @@ newmtl 08___Default
 	map_Kd roadfence1.jpg
 	map_d roadfencealpha.jpg
 
-newmtl wire_087225087
-	Ns 32
-	d 1
-	Tr 0
-	Tf 1 1 1
-	illum 2
-	Ka 0.3412 0.8824 0.3412
-	Kd 0.3412 0.8824 0.3412
-	Ks 0.3500 0.3500 0.3500
-
 newmtl 10___Default
 	Ns 10.0000
 	Ni 1.5000
@@ -154,3 +144,47 @@ newmtl 11___Default
 	map_Ka grassroad.jpg
 	map_Kd grassroad.jpg
 	map_d grassroadAlpha.jpg
+
+newmtl 12___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka soil2.jpg
+	map_Kd soil2.jpg
+
+newmtl 13___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka oatAmb.jpg
+	map_Kd oatAmb.jpg
+	map_d oatAlpha.jpg
+
+newmtl 14___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka tree1amb2.jpg
+	map_Kd tree1amb2.jpg
+	map_d tree1Alpha.jpg
