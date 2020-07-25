@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 26.07.2020 00:11:20
+# File Created: 26.07.2020 00:41:10
 
 mtllib karosaSM.mtl
 
@@ -1785,7 +1785,7 @@ vt 0.0270 0.3022 0.0000
 # 346 texture coords
 
 g Box018
-usemtl wire_229166215
+usemtl Material__29
 s off
 f 145/321/81 146/322/82 147/323/83 148/324/84 
 f 149/325/85 150/326/85 151/327/86 152/328/86 
