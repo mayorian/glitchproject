@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 31.07.2020 17:25:42
+# File Created: 31.07.2020 22:24:49
 
 newmtl 01___Default
 	Ns 10.0000
@@ -12,8 +12,22 @@ newmtl 01___Default
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka roadtext.jpg
-	map_Kd roadtext.jpg
+	map_Ka roadtext2.jpg
+	map_Kd roadtext2.jpg
+
+newmtl 21___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka oldroad.jpg
+	map_Kd oldroad.jpg
 
 newmtl 05___Default
 	Ns 10.0000
@@ -189,7 +203,7 @@ newmtl Material__36
 	map_Ka concrete.jpg
 	map_Kd concrete.jpg
 
-newmtl Material__37
+newmtl Material__42
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -200,8 +214,8 @@ newmtl Material__37
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka fencebrick.jpg
-	map_Kd fencebrick.jpg
+	map_Ka mtway.jpg
+	map_Kd mtway.jpg
 
 newmtl 05___Defaulte
 	Ns 10.0000
@@ -246,6 +260,20 @@ newmtl 05___Defaultt
 	Ke 0.0000 0.0000 0.0000
 	map_Ka farmMinCut.jpeg
 	map_Kd farmMinCut.jpeg
+
+newmtl Material__37
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka fencebrick.jpg
+	map_Kd fencebrick.jpg
 
 newmtl Material__24
 	Ns 10.0000
@@ -302,20 +330,6 @@ newmtl Material__41
 	Ke 0.0000 0.0000 0.0000
 	map_Ka build6.jpg
 	map_Kd build6.jpg
-
-newmtl Material__42
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5880 0.5880 0.5880
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka mtway.jpg
-	map_Kd mtway.jpg
 
 newmtl Material__39
 	Ns 10.0000
@@ -416,3 +430,45 @@ newmtl fr
 	map_Ka fncamb.jpg
 	map_Kd fncamb.jpg
 	map_d fncalpha.jpg
+
+newmtl Material__45
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka build4a.jpg
+	map_Kd build4a.jpg
+
+newmtl Material__46
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka build12.jpg
+	map_Kd build12.jpg
+
+newmtl Material__117
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka parking.jpg
+	map_Kd parking.jpg
