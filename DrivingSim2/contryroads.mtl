@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 31.07.2020 12:31:25
+# File Created: 31.07.2020 17:05:56
 
 newmtl 01___Default
 	Ns 10.0000
@@ -72,20 +72,6 @@ newmtl 07___Default
 	Ke 0.0000 0.0000 0.0000
 	map_Ka concrete.jpg
 	map_Kd concrete.jpg
-
-newmtl 02___Default
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka grass.jpg
-	map_Kd grass.jpg
 
 newmtl 08___Default
 	Ns 10.0000
@@ -247,19 +233,15 @@ newmtl 09___Default
 	map_Kd coniferamb.jpg
 	map_d coniferalpha.jpg
 
-newmtl 05___Defaultt
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
+newmtl wire_184228153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
 	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka farmMinCut.jpeg
-	map_Kd farmMinCut.jpeg
+	Ka 0.7216 0.8941 0.6000
+	Kd 0.7216 0.8941 0.6000
+	Ks 0.3500 0.3500 0.3500
 
 newmtl Material__24
 	Ns 10.0000
@@ -358,3 +340,75 @@ newmtl Material__47
 	Ke 0.0000 0.0000 0.0000
 	map_Ka stones.jpg
 	map_Kd stones.jpg
+
+newmtl Material__22
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka build9.jpg
+	map_Kd build9.jpg
+
+newmtl 09___Defy
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka agramb.jpg
+	map_Kd agramb.jpg
+	map_d agralpha.jpg
+
+newmtl Material__43
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka build10.jpg
+	map_Kd build10.jpg
+
+newmtl Material__44
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka build11.jpg
+	map_Kd build11.jpg
+
+newmtl fr
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka fncamb.jpg
+	map_Kd fncamb.jpg
+	map_d fncalpha.jpg
