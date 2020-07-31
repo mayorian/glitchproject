@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 30.07.2020 23:32:03
+# File Created: 31.07.2020 12:31:25
 
 newmtl 01___Default
 	Ns 10.0000
@@ -261,21 +261,6 @@ newmtl 05___Defaultt
 	map_Ka farmMinCut.jpeg
 	map_Kd farmMinCut.jpeg
 
-newmtl 09___Defaulte
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka bushAmb.jpg
-	map_Kd bushAmb.jpg
-	map_d bushAlpha.jpg
-
 newmtl Material__24
 	Ns 10.0000
 	Ni 1.5000
@@ -303,20 +288,6 @@ newmtl Material__38
 	Ke 0.0000 0.0000 0.0000
 	map_Ka build5.jpg
 	map_Kd build5.jpg
-
-newmtl Material__39
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5880 0.5880 0.5880
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka build8.jpg
-	map_Kd build8.jpg
 
 newmtl Material__40
 	Ns 10.0000
@@ -359,3 +330,31 @@ newmtl Material__42
 	Ke 0.0000 0.0000 0.0000
 	map_Ka mtway.jpg
 	map_Kd mtway.jpg
+
+newmtl Material__39
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka build8.jpg
+	map_Kd build8.jpg
+
+newmtl Material__47
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka stones.jpg
+	map_Kd stones.jpg
