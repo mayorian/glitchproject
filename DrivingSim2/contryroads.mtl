@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 13.08.2020 02:18:35
+# File Created: 13.08.2020 03:51:55
 
 newmtl 01___Default
 	Ns 10.0000
@@ -258,8 +258,8 @@ newmtl 05___Defaultt
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka forests.jpg
-	map_Kd forests.jpg
+	map_Ka grass.jpg
+	map_Kd grass.jpg
 
 newmtl Material__37
 	Ns 10.0000
