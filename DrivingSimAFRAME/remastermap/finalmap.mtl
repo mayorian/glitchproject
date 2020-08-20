@@ -1,0 +1,769 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 20.08.2020 21:07:11
+
+newmtl _mikowokepasbialyy
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7961 0.7961 0.7961
+	Kd 0.7961 0.7961 0.7961
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka PAS.BMP
+	map_Kd PAS.BMP
+
+newmtl _mikowokeprzystanekgraf
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ZNAK_PA.BMP
+	map_Kd ZNAK_PA.BMP
+
+newmtl _mikowokeprzystanek_kolo
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka PA_KOL.BMP
+	map_Kd PA_KOL.BMP
+
+newmtl _mikowokebetonik
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BETON.BMP
+	map_Kd BETON.BMP
+
+newmtl _mikowokeulica
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9412 0.9412 0.9412
+	Kd 0.9412 0.9412 0.9412
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ULICA.BMP
+	map_Kd ULICA.BMP
+
+newmtl _mikowokechodniczek
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8353 0.8353 0.8353
+	Kd 0.8353 0.8353 0.8353
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka CHODNIK.BMP
+	map_Kd CHODNIK.BMP
+
+newmtl _mikowoke17___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TRAWA.BMP
+	map_Kd TRAWA.BMP
+
+newmtl _mikowoke18___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _mikowoke03___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TAB.BMP
+	map_Kd TAB.BMP
+
+newmtl _mikowoke01___Default
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka PA_KOL.BMP
+	map_Kd PA_KOL.BMP
+
+newmtl _mikowoke02___Default
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka CZ.BMP
+	map_Kd CZ.BMP
+
+newmtl _mikowoketekstura
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka CZ.BMP
+	map_Kd CZ.BMP
+
+newmtl _mikowoketrawa
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TRAWA.BMP
+	map_Kd TRAWA.BMP
+
+newmtl _mikowokewodka
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka WODA1.BMP
+	map_Kd WODA1.BMP
+
+newmtl _mikowokesyg
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka CZ.BMP
+	map_Kd CZ.BMP
+
+newmtl _mikowokeprzejazd
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ULICA_TO.BMP
+	map_Kd ULICA_TO.BMP
+
+newmtl _mikowoke05___Default
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8941 0.8941 0.8941
+	Kd 0.8941 0.8941 0.8941
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka PIACH.BMP
+	map_Kd PIACH.BMP
+
+newmtl _mikowoketobydzuemost
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ZO.BMP
+	map_Kd ZO.BMP
+
+newmtl _mikowoke02___Default1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka CZ.BMP
+	map_Kd CZ.BMP
+
+newmtl _mikowokeoooooooooooooooo
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8039 0.8039 0.8039
+	Kd 0.8039 0.8039 0.8039
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka CHODNIK.BMP
+	map_Kd CHODNIK.BMP
+
+newmtl _mikowokeiiiiiiiiiiiiiiii
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7765 0.7765 0.7765
+	Kd 0.7765 0.7765 0.7765
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka CZ.BMP
+	map_Kd CZ.BMP
+
+newmtl _mikowokeasdadgfdfgd
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9333 0.9333 0.9333
+	Kd 0.9333 0.9333 0.9333
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TRAWA.BMP
+	map_Kd TRAWA.BMP
+
+newmtl _mikowokehgfhrtrtttt
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9098 0.9098 0.9098
+	Kd 0.9098 0.9098 0.9098
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka KWIAT1.BMP
+	map_Kd KWIAT1.BMP
+
+newmtl _mikowokegfhfhgfhfghgfh
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8863 0.8863 0.8863
+	Kd 0.8863 0.8863 0.8863
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka KWIAT3.BMP
+	map_Kd KWIAT3.BMP
+
+newmtl _mikowokepoipiopoip
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9098 0.9098 0.9098
+	Kd 0.9098 0.9098 0.9098
+	Ks 0.0449 0.0449 0.0449
+	Ke 0.0000 0.0000 0.0000
+	map_Ka KWIAT2.BMP
+	map_Kd KWIAT2.BMP
+
+newmtl _mikowokeasdsdghsa
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5843 0.5843 0.5843
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BETON.BMP
+	map_Kd BETON.BMP
+
+newmtl _mikowokeminisdmad
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5843 0.5843 0.5843
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka PORT_A.BMP
+	map_Kd PORT_A.BMP
+
+newmtl _mikowoke04___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka PORT_C.BMP
+	map_Kd PORT_C.BMP
+
+newmtl _mikowokelolujds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka PORT_B.BMP
+	map_Kd PORT_B.BMP
+
+newmtl _mikowoke16___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka LOK.BMP
+	map_Kd LOK.BMP
+
+newmtl _mikowoke22___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka LOK.BMP
+	map_Kd LOK.BMP
+
+newmtl _mikowoke15___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BUSTRAIN.BMP
+	map_Kd BUSTRAIN.BMP
+
+newmtl _mikowoke13___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka FLAT.BMP
+	map_Kd FLAT.BMP
+
+newmtl _mikowoke10___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka VEHI.BMP
+	map_Kd VEHI.BMP
+
+newmtl _mikowoke04___Default2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka RW.BMP
+	map_Kd RW.BMP
+
+newmtl _mikowokeDefault
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7000 0.7000 0.7000
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.7070 0.7070 0.7070
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _mikowoke22___Default1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka STREM.BMP
+	map_Kd STREM.BMP
+
+newmtl _mikowokecotygadasz
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BUILD41.BMP
+	map_Kd BUILD41.BMP
+
+newmtl _mikowokerozowomi
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BUILD_CZ.BMP
+	map_Kd BUILD_CZ.BMP
+
+newmtl _mikowokeMaterial__25
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5843 0.5843 0.5843
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BUILD_BI.BMP
+	map_Kd BUILD_BI.BMP
+
+newmtl _mikowokezapomnialem3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BUILD_ZJ.BMP
+	map_Kd BUILD_ZJ.BMP
+
+newmtl _mikowokejakifdsfsd
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BUILD_ZO.BMP
+	map_Kd BUILD_ZO.BMP
+
+newmtl _mikowokezapomnialem
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BUILD_NJ.BMP
+	map_Kd BUILD_NJ.BMP
+
+newmtl Material__1406
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka fl2.JPG
+	map_Kd fl2.JPG
+
+newmtl Material__1407
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka roof.jpg
+	map_Kd roof.jpg
+
+newmtl Material__1408
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka factor2.jpg
+	map_Kd factor2.jpg
+
+newmtl _contryroadsdeftree
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka tree1amb.jpg
+	map_Kd tree1amb.jpg
+	map_d tree1Alpha.jpg
+
+newmtl mat_0_b8_jpg
+	Ns 9.8492
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6980 0.6980 0.6980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka b8.jpg
+	map_Kd b8.jpg
+
+newmtl mat_1_b3_jpg
+	Ns 9.8492
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6980 0.6980 0.6980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka b3.jpg
+	map_Kd b3.jpg
+
+newmtl mat_2_b11_jpg
+	Ns 9.8492
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6980 0.6980 0.6980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka b11.jpg
+	map_Kd b11.jpg
+
+newmtl mat_3_b10_jpg
+	Ns 9.8492
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6980 0.6980 0.6980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka b10.jpg
+	map_Kd b10.jpg
+
+newmtl mat_4_b9_jpg
+	Ns 9.8492
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6980 0.6980 0.6980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka b9.jpg
+	map_Kd b9.jpg
+
+newmtl mat_5_b6_jpg
+	Ns 9.8492
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6980 0.6980 0.6980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka b6.jpg
+	map_Kd b6.jpg
+
+newmtl mat_6_b4_jpg
+	Ns 9.8492
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6980 0.6980 0.6980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka b4.jpg
+	map_Kd b4.jpg
+
+newmtl mat_7_b2_jpg
+	Ns 9.8492
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6980 0.6980 0.6980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka b2.jpg
+	map_Kd b2.jpg
