@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 22.08.2020 03:48:07
+# File Created: 23.08.2020 01:47:05
 
 newmtl _mikowokepasbialyy
 	Ns 10.0000
@@ -501,90 +501,6 @@ newmtl _mikowokeDefault
 	Ks 0.7070 0.7070 0.7070
 	Ke 0.0000 0.0000 0.0000
 
-newmtl _mikowokecotygadasz
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka BUILD41.BMP
-	map_Kd BUILD41.BMP
-
-newmtl _mikowokerozowomi
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka BUILD_CZ.BMP
-	map_Kd BUILD_CZ.BMP
-
-newmtl _mikowokeMaterial__25
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5843 0.5843 0.5843
-	Kd 0.5843 0.5843 0.5843
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka BUILD_BI.BMP
-	map_Kd BUILD_BI.BMP
-
-newmtl _mikowokezapomnialem3
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka BUILD_ZJ.BMP
-	map_Kd BUILD_ZJ.BMP
-
-newmtl _mikowokejakifdsfsd
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka BUILD_ZO.BMP
-	map_Kd BUILD_ZO.BMP
-
-newmtl _mikowokezapomnialem
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka BUILD_NJ.BMP
-	map_Kd BUILD_NJ.BMP
-
 newmtl Material__1406
 	Ns 10.0000
 	Ni 1.5000
@@ -949,3 +865,32 @@ newmtl Material__1423
 	Ke 0.0000 0.0000 0.0000
 	map_Ka flat2.jpg
 	map_Kd flat2.jpg
+
+newmtl Material__1424
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka factor3.jpg
+	map_Kd factor3.jpg
+
+newmtl _contryroadslamp
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka lamp.jpg
+	map_Kd lamp.jpg
+	map_d lamalpha.jpg
