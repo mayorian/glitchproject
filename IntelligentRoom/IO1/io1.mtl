@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 20.09.2020 03:40:42
+# File Created: 20.09.2020 04:49:39
 
 newmtl 13___Default
 	Ns 10.0000
@@ -14,3 +14,15 @@ newmtl 13___Default
 	Ke 0.0000 0.0000 0.0000
 	map_Ka housemap.jpg
 	map_Kd housemap.jpg
+
+newmtl 03___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.0275 0.0275 0.0275
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
