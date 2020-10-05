@@ -1,17 +1,19 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 05.10.2020 22:38:37
+# File Created: 05.10.2020 22:47:02
 
-newmtl _lirkiscavemodel01___Default
+newmtl 08___Default
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
 	Tf 1.0000 1.0000 1.0000 
 	illum 2
-	Ka 0.0275 0.0275 0.0275
-	Kd 0.0275 0.0275 0.0275
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
+	map_Ka metl2.jpg
+	map_Kd metl2.jpg
 
 newmtl Material__35
 	Ns 10.0000
