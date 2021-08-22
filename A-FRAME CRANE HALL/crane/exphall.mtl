@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 22.08.2021 23:33:28
+# File Created: 22.08.2021 23:37:09
 
 newmtl 03___Default
 	Ns 10.0000
@@ -36,8 +36,8 @@ newmtl gefe
 	Kd 1.0000 1.0000 1.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka D:\===Tuke===\PHD\KPi a LIRKIS materialy\COLLABORATIVE\A-FRAME CRANE HALL\crane\walls.jpg
-	map_Kd D:\===Tuke===\PHD\KPi a LIRKIS materialy\COLLABORATIVE\A-FRAME CRANE HALL\crane\walls.jpg
+	map_Ka walls.jpg
+	map_Kd walls.jpg
 
 newmtl ytr
 	Ns 10.0000
@@ -50,8 +50,8 @@ newmtl ytr
 	Kd 1.0000 1.0000 1.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka D:\===Tuke===\PHD\KPi a LIRKIS materialy\COLLABORATIVE\A-FRAME CRANE HALL\crane\wallsfb.jpg
-	map_Kd D:\===Tuke===\PHD\KPi a LIRKIS materialy\COLLABORATIVE\A-FRAME CRANE HALL\crane\wallsfb.jpg
+	map_Ka wallsfb.jpg
+	map_Kd wallsfb.jpg
 
 newmtl 07___Default
 	Ns 10.0000
@@ -64,8 +64,8 @@ newmtl 07___Default
 	Kd 1.0000 1.0000 1.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka D:\===Tuke===\PHD\KPi a LIRKIS materialy\COLLABORATIVE\A-FRAME CRANE HALL\crane\floor.jpg
-	map_Kd D:\===Tuke===\PHD\KPi a LIRKIS materialy\COLLABORATIVE\A-FRAME CRANE HALL\crane\floor.jpg
+	map_Ka floor.jpg
+	map_Kd floor.jpg
 
 newmtl vfd
 	Ns 10.0000
@@ -78,5 +78,5 @@ newmtl vfd
 	Kd 1.0000 1.0000 1.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka D:\===Tuke===\PHD\KPi a LIRKIS materialy\COLLABORATIVE\A-FRAME CRANE HALL\crane\skeleton.jpg
-	map_Kd D:\===Tuke===\PHD\KPi a LIRKIS materialy\COLLABORATIVE\A-FRAME CRANE HALL\crane\skeleton.jpg
+	map_Ka skeleton.jpg
+	map_Kd skeleton.jpg
