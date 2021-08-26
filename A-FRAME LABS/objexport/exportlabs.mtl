@@ -1,7 +1,7 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 26.08.2021 00:45:09
+# File Created: 26.08.2021 02:45:23
 
-newmtl v2
+newmtl cd
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -15,7 +15,7 @@ newmtl v2
 	map_Ka maps\wallsv2.jpg
 	map_Kd maps\wallsv2.jpg
 
-newmtl v1
+newmtl v2
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -29,19 +29,19 @@ newmtl v1
 	map_Ka maps\wallsv1.jpg
 	map_Kd maps\wallsv1.jpg
 
-newmtl 23___Default
+newmtl 01___Default
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
 	Tf 1.0000 1.0000 1.0000 
 	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
 
-newmtl fl
+newmtl v1
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -68,3 +68,17 @@ newmtl cl
 	Ke 0.0000 0.0000 0.0000
 	map_Ka maps\ceiling.jpg
 	map_Kd maps\ceiling.jpg
+
+newmtl fl
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\console1.jpg
+	map_Kd maps\console1.jpg
