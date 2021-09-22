@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<GrandMA3DImportSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/GrandMA3D/GrandMA3DImportSettings/1.0">
+  <ModelKey>494d50f8-6aea-4450-993d-f0ab367bfb07</ModelKey>
+  <DeviceClass>None</DeviceClass>
+  <ModelPriority xsi:nil="true" />
+  <Scale>1</Scale>
+  <DoubleAllFaces>false</DoubleAllFaces>
+  <Move>None</Move>
+  <AmbientFlare xsi:nil="true" />
+</GrandMA3DImportSettings>
